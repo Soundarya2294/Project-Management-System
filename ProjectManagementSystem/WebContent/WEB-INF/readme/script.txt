@@ -1,0 +1,4 @@
+create table employee_pms (emp_id varchar(20) primary key,EMP_NAME varchar(50) Not Null,EMAIL varchar(50) Not Null,ADDRESS varchar(100),ROLE varchar(20),PASSWORD varchar(50) Not Null,TEAM varchar(20),MANAGER_ID Number(20),status varchar(50),PHONE varchar(20));
+
+
+insert into employee_pms (emp_id,EMP_NAME,EMAIL,ADDRESS,ROLE,PASSWORD,team,manager_id,status,phone) values ('1','admin','admin@admin.com','Hyderabad','ADMIN','Admin@123','DEVELOPMENT','0','ASSIGNED','7702397779');

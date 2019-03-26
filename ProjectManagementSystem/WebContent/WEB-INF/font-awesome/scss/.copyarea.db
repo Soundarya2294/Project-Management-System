@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\Sales_Tools_apps_sub\Calculators_J2EE_src\MSBTWeb\WebContent\B2E_RUIFW_src\dist\font-awesome\scss
+2
+9
+a:_core.scss|1|168c63b7c88|86d|ad68dc2|89b36e00f65211e380230002cb4e524c|0
+b:_icons.scss|1|168c63b7cb1|4493|72b15099|86e36db0f65211e380230002cb4e524c|0
+f:_variables.scss|1|168c63b7d79|1f7d|e032c63c|88036dd0f65211e380230002cb4e524c|0
+11:font-awesome.scss|1|168c63b7d8b|504|31077c37|8a536e10f65211e380230002cb4e524c|0
+a:_path.scss|1|168c63b7d5f|2f1|7ef401ce|89236df0f65211e380230002cb4e524c|0
+15:font-awesome-ie7.scss|1|168c63b7db4|5738|b7b6e4fd|86536da0f65211e380230002cb4e524c|0
+c:_extras.scss|1|168c63b7ca8|966|50fe0ba6|8b036e20f65211e380230002cb4e524c|0
+c:_mixins.scss|1|168c63b7ca6|436|a5324dd7|88936de0f65211e380230002cb4e524c|0
+f:_bootstrap.scss|1|168c63b7c87|828|aaec8476|87636dc0f65211e380230002cb4e524c|0
